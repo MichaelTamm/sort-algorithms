@@ -2,13 +2,9 @@
     "configurations": [
         {
             "type": "java",
-            "name": "Launch App",
+            "name": "Main",
             "request": "launch",
-            "cwd": "${workspaceFolder}",
-            "console": "internalConsole",
-            "stopOnEntry": false,
-            "mainClass": "com.mycompany.app.App",
-            "args": "",
+            "mainClass": "ikg.Main",
             "projectName": "my-app"
         }
     ]
